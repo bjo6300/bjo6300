@@ -11,6 +11,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
