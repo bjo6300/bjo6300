@@ -1,12 +1,13 @@
-- 🌱 I’m currently studying android(kotlin), backend.
+- 🌱 I’m currently studying android(kotlin), backend(Django).
 - 📫 How to reach me: bjo6300@naver.com 
 
 <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm interesting</b></summary>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 
 <details>
   <summary> <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm learning</b></summary>
