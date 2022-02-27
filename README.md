@@ -13,7 +13,6 @@
   <summary> <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm learning</b></summary>
   <br/>
 
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 
