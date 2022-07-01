@@ -1,4 +1,4 @@
-- 🌱 I’m currently studying android(kotlin), Django.
+- 🌱 I’m currently studying Django, Python.
 - 📫 How to reach me: bjo6300@naver.com 
 
 <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm interesting</b></summary>
