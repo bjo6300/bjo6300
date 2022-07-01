@@ -5,7 +5,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 
@@ -15,6 +14,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
 
 </details>
 <br/>
