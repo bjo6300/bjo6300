@@ -1,5 +1,6 @@
 - 🌱 I’m currently studying Django, Python.
 - 📫 How to reach me: bjo6300@naver.com 
+- [포트폴리오](https://valiant-macaw-b46.notion.site/0c1463b171314c1f847a64632b104317)
 
 <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm interesting</b></summary>
 
