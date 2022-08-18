@@ -1,6 +1,11 @@
+<div>
+  
+  [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-0c1463b171314c1f847a64632b104317)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-0c1463b171314c1f847a64632b104317)
+  [![Mail Badge](https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:bjo6300@naver.com)](mailto:bjo6300@naver.com)
+
+</div>
+
 - 🌱 I’m currently studying Django, Python.
-- 📫 How to reach me: bjo6300@naver.com 
-- [포트폴리오](https://valiant-macaw-b46.notion.site/0c1463b171314c1f847a64632b104317)
 
 <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm interesting</b></summary>
 
