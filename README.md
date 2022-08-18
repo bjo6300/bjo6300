@@ -20,7 +20,6 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
 ![Celery](https://img.shields.io/badge/-Celery-000000?style=flat&logo=Celery)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=Rabbitmq)
 
