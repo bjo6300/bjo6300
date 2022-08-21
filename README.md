@@ -14,13 +14,14 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 
 <details>
-  <summary> <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm learning</b></summary>
+  <summary> <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm experienced</b></summary>
   <br/>
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 ![Celery](https://img.shields.io/badge/-Celery-000000?style=flat&logo=Celery)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=Rabbitmq)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 
 </details>
 <br/>
