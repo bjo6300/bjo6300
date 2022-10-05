@@ -22,6 +22,8 @@
 ![Celery](https://img.shields.io/badge/-Celery-000000?style=flat&logo=Celery)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=Rabbitmq)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
 
 </details>
 <br/>
