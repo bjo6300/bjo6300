@@ -1,10 +1,10 @@
 <div>
   
-  [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-0c1463b171314c1f847a64632b104317)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-0c1463b171314c1f847a64632b104317)
+  [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)
   [![Naver Badge](https://img.shields.io/badge/Mail-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:bjo6300@naver.com)](mailto:bjo6300@naver.com)
 </div>
 
-- 🌱 I’m currently studying Django, Python. If you want to know about me, click [![Resume](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-0c1463b171314c1f847a64632b104317)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-0c1463b171314c1f847a64632b104317)
+- 🌱 I’m currently studying Django, Python. If you want to know about me, click [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)  
 
 <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm interesting</b></summary>
 
