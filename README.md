@@ -13,10 +13,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 
-<details>
-  <summary> <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm experienced</b></summary>
-  <br/>
+<b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm experienced</b></summary>
 
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 ![Celery](https://img.shields.io/badge/-Celery-000000?style=flat&logo=Celery)
@@ -25,7 +24,7 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
 
-</details>
+
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjo6300)](https://solved.ac/bjo6300/)
