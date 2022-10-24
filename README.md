@@ -28,8 +28,8 @@
 </details>
 <br/>
 
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjo6300)](https://solved.ac/bjo6300)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjo6300)](https://solved.ac/bjo6300/)
+
   
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbjo6300&count_bg=%23087F90&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
