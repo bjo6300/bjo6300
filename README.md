@@ -6,7 +6,7 @@
 
 <div align='center'>
 
-  🌱 I’m currently studying Django, Python. If you want to know about me, click [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)  
+  🌱 I’m currently studying Django, Spring. If you want to know about me, click [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)  
 
   <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm interesting</b></summary>
 
