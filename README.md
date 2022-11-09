@@ -17,7 +17,7 @@
 
   <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm experienced</b></summary>
 
-  ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=Spring)
   ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
   ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
   ![Celery](https://img.shields.io/badge/-Celery-000000?style=flat&logo=Celery)
