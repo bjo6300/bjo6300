@@ -6,18 +6,17 @@
 
 <div align='center'>
 
-  🌱 I’m currently studying Django, Spring. If you want to know about me, click [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)  
+  🌱 I’m currently studying SpringBoot. If you want to know about me, click [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)  
 
   <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm interesting</b></summary>
 
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=Spring)  
   <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm experienced</b></summary>
 
-  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=Spring)
+
   ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
   ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
   ![Celery](https://img.shields.io/badge/-Celery-000000?style=flat&logo=Celery)
