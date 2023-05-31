@@ -1,12 +1,12 @@
 <div>
   
-  [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/49f51dbebee246ecab9c01561a17d4a5)](https://valiant-macaw-b46.notion.site/49f51dbebee246ecab9c01561a17d4a5)
+  [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/191bad3d95894b2fbdd2af3a834d3cd9)](https://valiant-macaw-b46.notion.site/191bad3d95894b2fbdd2af3a834d3cd9)
   [![Naver Badge](https://img.shields.io/badge/Mail-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:bjo6300@naver.com)](mailto:bjo6300@naver.com)
 </div>
 
 <div align='center'>
 
-  🌱 I’m currently studying SpringBoot. If you want to know about me, click [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)](https://valiant-macaw-b46.notion.site/Jun-Il-Bae-135ed3ce259b4a2c9acbf701f6fa505e)  
+  🌱 I’m currently studying SpringBoot. If you want to know about me, click [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/191bad3d95894b2fbdd2af3a834d3cd9)](https://valiant-macaw-b46.notion.site/191bad3d95894b2fbdd2af3a834d3cd9)  
 
   <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm interesting</b></summary>
   
