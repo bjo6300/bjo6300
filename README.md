@@ -1,6 +1,5 @@
 <div>
   
-<!--   [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion&link=https://valiant-macaw-b46.notion.site/191bad3d95894b2fbdd2af3a834d3cd9)](https://valiant-macaw-b46.notion.site/191bad3d95894b2fbdd2af3a834d3cd9) -->
   [![Naver Badge](https://img.shields.io/badge/Mail-00c73c?style=flat-square&logo=Naver&logoColor=white&link=mailto:bjo6300@naver.com)](mailto:bjo6300@naver.com)
 </div>
 
