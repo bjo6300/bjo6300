@@ -5,8 +5,6 @@
 
 <div align='center'>
 
-  🌱 I’m currently studying SpringBoot. 
-
   <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm interesting</b></summary>
   
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=Spring)
