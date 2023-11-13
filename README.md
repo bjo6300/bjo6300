@@ -10,19 +10,18 @@
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=Spring)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
   
   
   <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm experienced</b></summary>
-
-
+  
+  ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
   ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
   ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
-  ![Celery](https://img.shields.io/badge/-Celery-000000?style=flat&logo=Celery)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=Rabbitmq)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
   ![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=Grafana)
+  ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+  ![Celery](https://img.shields.io/badge/-Celery-000000?style=flat&logo=Celery)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=Rabbitmq)
 
 
   <br/>
