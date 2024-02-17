@@ -10,11 +10,14 @@
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=Spring)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
+  ![JPA](https://img.shields.io/badge/-JPA-000000?style=flat&logo=JPA)
+  ![JUnit5](https://img.shields.io/badge/-JUnit5-000000?style=flat&logo=JUnit5)
   
   
   <b>🧑🏻‍💻 &nbsp;&nbsp; Some of the technologies I'm experienced</b></summary>
   
-  ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
+  
   ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
   ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
