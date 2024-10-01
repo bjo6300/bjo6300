@@ -32,8 +32,15 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjo6300)](https://solved.ac/bjo6300/)
 
-[![JunIl's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjo6300&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+--- 
+<div align='left'>
 
+### 경력
+TmaxMetaAI (2024.05 ~ 재직 중)
+
+</div>
+
+--- 
 
 
 
