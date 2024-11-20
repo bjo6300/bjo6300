@@ -36,7 +36,8 @@
 <div align='left'>
 
 ### 경력
-TmaxMetaAI (2024.05 ~ 재직 중)
+Bomapp (2024.11 ~ Present) <br>
+TmaxMetaAI (2024.05 ~ 2024.11) <br>
 
 </div>
 
